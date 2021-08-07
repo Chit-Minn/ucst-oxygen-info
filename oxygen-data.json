@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "type": 1,
+      "name": "Oxygen Concentrator",
+      "description":"",
+      "isavailable":1,
+      "location":"Yangon",
+      "contact-person":"Ma Su Hlaing Htut",
+      "occupied-date":"20210801",
+      "occupied-person":"Mg Htin Lin"
+    },
+    {
+      "type": 2,
+      "name": "Oxygen Tank",
+      "description":"",
+      "isavailable":1,
+      "location":"Yangon",
+      "contact-person":"Mg Nein Chan Aung",
+      "occupied-date":"",
+      "occupied-person":""
+    }
+  ]
+}
