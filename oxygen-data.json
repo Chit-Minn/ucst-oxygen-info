@@ -6,10 +6,10 @@
       "description":"",
       "isavailable":1,
       "location":"Yangon",
-      "contact-person":"Ma Su Hlaing Htut",
-	  "contact-no":"09 665 443 233",
-      "occupied-date":"",
-      "occupied-person":""
+      "contactperson":"Ma Su Hlaing Htut",
+	  "contactno":"09 665 443 233",
+      "occupieddate":"",
+      "occupiedperson":""
     },
     {
       "type": 2,
@@ -17,10 +17,10 @@
       "description":"",
       "isavailable":1,
       "location":"Yangon",
-      "contact-person":"Mg Nein Chan Aung",
-	  "contact-no":"09 665 443 233",
-      "occupied-date":"",
-      "occupied-person":""
+      "contactperson":"Mg Nein Chan Aung",
+	  "contactno":"09 665 443 233",
+      "occupieddate":"",
+      "occupiedperson":""
     },
 	{
       "type": 2,
@@ -28,10 +28,10 @@
       "description":"",
       "isavailable":0,
       "location":"Bago",
-      "contact-person":"Mg Nein Chan Aung",
-	  "contact-no":"09 665 443 233",
-       "occupied-date":"20210801",
-      "occupied-person":"Mg Htin Lin"
+      "contactperson":"Mg Nein Chan Aung",
+	  "contactno":"09 665 443 233",
+       "occupieddate":"20210801",
+      "occupiedperson":"Mg Htin Lin"
     },
 	{
       "type": 2,
@@ -39,10 +39,10 @@
       "description":"",
       "isavailable":1,
       "location":"Yangon",
-      "contact-person":"Mg Nein Chan Aung",
-	  "contact-no":"09 665 443 233",
-      "occupied-date":"",
-      "occupied-person":""
+      "contactperson":"Mg Nein Chan Aung",
+	  "contactno":"09 665 443 233",
+      "occupieddate":"",
+      "occupiedperson":""
     },
 	{
       "type": 2,
@@ -50,10 +50,10 @@
       "description":"",
       "isavailable":1,
       "location":"Yangon",
-      "contact-person":"Mg Nein Chan Aung",
-	  "contact-no":"09 665 443 233",
-      "occupied-date":"",
-      "occupied-person":""
+      "contactperson":"Mg Nein Chan Aung",
+	  "contactno":"09 665 443 233",
+      "occupieddate":"",
+      "occupiedperson":""
     },
 	{
       "type": 2,
@@ -61,10 +61,10 @@
       "description":"",
       "isavailable":1,
       "location":"Yangon",
-      "contact-person":"Mg Nein Chan Aung",
-	  "contact-no":"09 665 443 233",
-      "occupied-date":"",
-      "occupied-person":""
+      "contactperson":"Mg Nein Chan Aung",
+	  "contactno":"09 665 443 233",
+      "occupieddate":"",
+      "occupiedperson":""
     }
   ]
 }
