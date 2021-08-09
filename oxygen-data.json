@@ -10,7 +10,8 @@
       "contactperson":"Ma Su Hlaing Htut",
 	  "contactno":"09 665 443 233",
       "occupieddate":"",
-      "occupiedperson":""
+      "occupiedperson":"",
+	  "occupiedlocation":""
     },
     {
       "type": 2,
@@ -21,7 +22,8 @@
       "contactperson":"Mg Nein Chan Aung",
 	  "contactno":"09 665 443 233",
       "occupieddate":"",
-      "occupiedperson":""
+      "occupiedperson":"",
+	  "occupiedlocation":""
     },
 	{
       "type": 2,
@@ -32,7 +34,8 @@
       "contactperson":"Mg Nein Chan Aung",
 	  "contactno":"09 665 443 233",
        "occupieddate":"20210801",
-      "occupiedperson":"Mg Htin Lin"
+      "occupiedperson":"Mg Htin Lin",
+	  "occupiedlocation":"Bago"
     },
 	{
       "type": 2,
@@ -43,7 +46,8 @@
       "contactperson":"Mg Nein Chan Aung",
 	  "contactno":"09 665 443 233",
       "occupieddate":"",
-      "occupiedperson":""
+      "occupiedperson":"",
+	  "occupiedlocation":""
     },
 	{
       "type": 2,
@@ -54,7 +58,8 @@
       "contactperson":"Mg Nein Chan Aung",
 	  "contactno":"09 665 443 233",
       "occupieddate":"",
-      "occupiedperson":""
+      "occupiedperson":"",
+	  "occupiedlocation":""
     },
 	{
       "type": 2,
@@ -65,7 +70,8 @@
       "contactperson":"Mg Nein Chan Aung",
 	  "contactno":"09 665 443 233",
       "occupieddate":"12 Aug 2021",
-      "occupiedperson":"U Win Htein"
+      "occupiedperson":"U Win Htein",
+	  "occupiedlocation":"Nyaung Lay Pin"
     }
   ]
 }
